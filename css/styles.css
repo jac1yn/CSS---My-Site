@@ -1,0 +1,30 @@
+body {
+  background-color: #D8D2CB;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.renameMe {
+  margin: 0;
+  /*padding: 0,0,0,0;*/
+  background-color: #398AB9;
+}
+
+.red {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.blue {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.profilePic {
+  border-radius: 100%;
+}
